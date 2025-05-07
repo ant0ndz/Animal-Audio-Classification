@@ -1,0 +1,14 @@
+BirdCLEF 2025 Dataset Sample – License Notice
+
+This folder contains a preprocessed sample of the BirdCLEF 2025 dataset originally made available as part of a Kaggle competition. Note that no adio files are under this folder.
+
+Original dataset source:
+https://www.kaggle.com/competitions/birdclef-2025/data
+
+License:
+This data is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Please note: The original dataset is subject to Kaggle’s terms of use and may not be redistributed in full.
+This sample is provided solely for educational and non-commercial research purposes.
