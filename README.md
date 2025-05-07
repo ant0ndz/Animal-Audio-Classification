@@ -1,6 +1,7 @@
 # Animal-Audio-Classification
 This repo contains work done as part of a university project aimed at learning and appliying machine learning techniques using audio files.
 It includes python notbooks used for EDA, data preprocessing, experiments containing machine learning training and testing and finally a demenstration notbook showing an example of how audio files can be processed for machine learning purposes.
+Note that only the Experiments.ipynb can be run, as other notebooks require the full original data from the compatition.
 
 ## Method:
 We wanted to use audio data to classify files to an animal class, based on the animal sounds found int it.
@@ -17,12 +18,14 @@ The python notebooks included are:
 * Audio Preprocessing Example.ipynb - Python notebook for showing different approaches for working with audio and machine learning.
 
 ## Data
-The data is taken from from kaggles compatition named BirdCLEF+ 2025, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The data used is taken from from kaggles compatition named BirdCLEF+ 2025, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The data in this repo is partial and preprocessed and is not the original data provided by the compatition as is.
+However, the licesne of the orginigal dataset is applied also to the data in this repo.
 
 Link to compatition: https://www.kaggle.com/competitions/birdclef-2025/data
 
-The folder named "data" contains a zip, containing partial data from the compatition.
-The folder named "preprocessed data" contains csvs created by "Data Processing.ipynb" for the experiments phase. Data in the csvs is modifed and are not original.
+The folder named "experiment data subset" contains a zip, containing partial audio files data from the compatition.
+The folder named "preprocessed data csvs" contains csvs created by "Data Processing.ipynb" for the experiments phase.
 
 
 ## Licensing
