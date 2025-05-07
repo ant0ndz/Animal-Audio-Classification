@@ -18,10 +18,11 @@ The python notebooks included are:
 
 ## Data
 The data is taken from from kaggles compatition named BirdCLEF+ 2025, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 Link to compatition: https://www.kaggle.com/competitions/birdclef-2025/data
 
-The folder named "data" contains a zip, which is the original zip downloaded from the compatition.
-The folder named "preprocessed data" contains csvs created by "Data Processing.ipynb" for the experiments phase. Data in the csvs is modifed and are not the original csvs downloaded.
+The folder named "data" contains a zip, containing partial data from the compatition.
+The folder named "preprocessed data" contains csvs created by "Data Processing.ipynb" for the experiments phase. Data in the csvs is modifed and are not original.
 
 
 ## Licensing
